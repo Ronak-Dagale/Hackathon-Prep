@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Idea 1", 
+    "description": "Description for Idea 1", 
+    "solved": false
+  },
+  {
+    "title": "Idea 2", 
+    "description": "Description for Idea 2", 
+    "solved": false
+  },
+  {
+    "title": "Idea 3", 
+    "description": "Description for Idea 3", 
+    "solved": false
+  }
+]
+
